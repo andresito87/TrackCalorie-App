@@ -21,4 +21,4 @@ Este proyecto es parte del curso **Modern JS From The Beginning 2.0** de [Brad T
 
 ## Uso
 
-Aplicación desplegada en [TrackCalorie App]()
+Aplicación desplegada en [TrackCalorie App](https://dazzling-frangipane-1cfc43.netlify.app/)
